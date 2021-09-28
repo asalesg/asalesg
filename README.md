@@ -1,4 +1,4 @@
-### Opa! Salve Salve! Sou o André Sales 👋
+### Sou o André Sales 👋
 
 - 🔭 Sou Psicólogo pelo Mackenzie com especialização em Terapia Analítico Comportamental pela USP
 - 🌱 Estou estudando Análise e Desenvolvimento de sistemas
