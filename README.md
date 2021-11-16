@@ -3,6 +3,7 @@
 - 🤓 Sou Psicólogo pelo Mackenzie com especialização em Terapia Analítico Comportamental pela USP
 - 🌱 Estou estudando Análise e Desenvolvimento de sistemas
 - ⚡ Fun fact: Eu tenho 3 gatos que são minha vida. Adoro comer besteira (já diria minha avó) e escuto todo tipo de música :D
+- hehehe
 <div align="center">
   <a href="https://github.com/asalesg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=unicorn&include_all_commits=true&count_private=true"/>
