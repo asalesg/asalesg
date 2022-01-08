@@ -1,7 +1,7 @@
 ### Sou o André Sales 👋
 
 - 🤓 Sou Psicólogo pelo Mackenzie com especialização em Terapia Analítico Comportamental pela USP
-- 🌱 Estou estudando Análise e Desenvolvimento de sistemas
+- 🌱 Estou estudando Análise e Desenvolvimento de sistemas na FIAP
 - ⚡ Fun fact: Eu tenho 3 gatos que são minha vida. Adoro comer besteira (já diria minha avó) e escuto todo tipo de música :D
 - hehehe
 <div align="center">
