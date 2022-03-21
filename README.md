@@ -6,8 +6,8 @@
 - hehehe
 <div align="center">
   <a href="https://github.com/asalesg">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=unicorn&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=7&theme=unicorn"/>
 </div>
 
 </div>
