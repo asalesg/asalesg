@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/asalesg">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=midnight-purple"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 </div>
@@ -17,6 +17,11 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+  <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  <img align="center" alt="SCSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
+  <img align="center" alt="Sass" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
+  
+
 </div>
   
   ##
