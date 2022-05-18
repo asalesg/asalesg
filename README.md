@@ -4,11 +4,11 @@
 - 🤓 Sou Psicólogo pelo Mackenzie com especialização em Terapia Analítico Comportamental pela USP
 - ⚡ Fun fact: Eu tenho 3 gatos, com nome de Jedi, que são minha vida. Adoro comer besteira (já diria minha avó) e escuto todo tipo de música :D
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/asalesg">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=midnight-purple"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=8&theme=midnight-purple"/>
-</div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div> -->
 
 </div>
   <div style="display: inline_block"><br>
