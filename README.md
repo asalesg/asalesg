@@ -22,7 +22,9 @@
   <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
   <img align="center" alt="SCSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
   <img align="center" alt="Sass" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
-  
+  <img align="center" alt="react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
+  <img align="center" alt="Vue" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Svelte" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg">
 
 </div>
   
