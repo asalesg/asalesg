@@ -9,17 +9,18 @@
 <div align="center">
   <a href="https://github.com/asalesg">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asalesg&show_icons=true&theme=midnight-purple"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=6&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asalesg&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
 
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JAVA" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png">
+  <img align="center" alt="CSharp" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SCSS" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png">
   <img align="center" alt="Sass" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/919/919831.png">
   <img align="center" alt="react" height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png">
