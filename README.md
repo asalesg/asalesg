@@ -1,6 +1,6 @@
 ### Sou o André Sales 👋
 
-- 🌱 Em janeiro de 2022 iniciei meus estudos em Análise e desenvolvimento de Sistemas na FIAP
+- 🌱 Em janeiro de 2022 iniciei meus estudos em Análise e desenvolvimento de Sistemas na FIAP. Me formei em dezembro de 2023
 - 🤓 Sou Psicólogo pelo Mackenzie com especialização em Terapia Analítico Comportamental pela USP
 - ⚡ Fun fact: Eu tenho 3 gatos, com nome de Jedi, que são minha vida. Adoro comer besteira (já diria minha avó) e escuto todo tipo de música :D
 - Realizando diversos cursos na Alura.
